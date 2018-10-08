@@ -22,6 +22,11 @@ header h1 {
         font-size: 35px;
     }
 }
+@media only screen and (max-width: 400px) {
+    header h1 {
+        font-size: 400px;
+    }
+}
 
 header h1 span:hover {
     color:white;
