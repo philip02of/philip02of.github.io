@@ -1,0 +1,8 @@
+	Kernaparatuur – hardware die elke computer heeft.
+	Randapparatuur – hardware die aangesloten kan worden op een computer
+	Printplaat – drager voor hardware- interface
+	moederbord –  een printplaat van een computer die alle kernapparatuur met elkaar verbind
+	System on a chip – 1 chip met meerdere functies die aangesloten zit op het moederbord. 	Bijv. een cpu met een ingebouwde videokaart
+	Multi-processorsysteem – een computer met meerdere procesoren. Bijv een rekencomputer in een data center.
+	Multicoreprocessor – een procesor met meerdere kernen, dit zorgt ervoor dat de computer meerde taken teglijk kan uitvoeren. 
+	Pipelining – opdrachten die de computer moet uitvoeren worden verdeeeld over de meeerdere cores.
