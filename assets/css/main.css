@@ -1,0 +1,93 @@
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  height: 500px;	
+  width: 100%;
+  background: url(../images/header4.jpg) center center no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+header h1 {
+    text-align: center;
+	padding-top: 200px;
+	font-size: 100;
+	font-family: ff2;
+	color:black;
+}
+header h1 span:hover {
+    color:white;
+}
+span {
+	font-family: ff3;
+}
+
+header li {
+	text-align: center;
+}
+.info {
+	background-color: #899295;
+	width: 100%;
+	padding-bottom:2.5vh;
+}
+.memor {
+	background-color: #b4b8ab;
+	width: 100%;
+	padding-bottom:2.5vh;	
+}
+.contact {
+	background-color: #899295;
+	width: 100%;
+	padding-bottom:2.5vh;
+}
+footer {
+	height: 6 0px;
+	background: black;
+	display: block;	
+	width: 100%;
+	z-index: 99999;
+	text-align: center;
+}
+.title {
+	text-align: center;
+	padding-top: 5vh;
+	font-size: 50;
+	font-family: ff1;
+}
+
+.tekst {
+	
+	margin:2vh;
+	font-family:ff5;
+}
+
+footer p, a {
+    color: white;
+    font-family: ff1;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.portfolie {
+    
+}
+
+.portfolie .left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+
+
+.portfolie img {
+      position: absolute;
+      width: 600px;
+      height: 450px;
+}

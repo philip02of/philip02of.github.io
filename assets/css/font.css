@@ -1,0 +1,20 @@
+@font-face {
+    font-family: ff1;
+    src: url(../font/Moonrise-Regular.otf);
+}
+@font-face {
+    font-family: ff2;
+    src: url(../font/Moonrise-Alternate.otf);
+}
+@font-face {
+    font-family: ff3;
+    src: url(../font/Moonrise-Fill.otf);
+}
+@font-face {
+    font-family: ff4;
+    src: url(../font/title.ttf);
+}
+@font-face {
+    font-family: ff5;
+    src: url(../font/CalvinKlein.ttf);
+}
