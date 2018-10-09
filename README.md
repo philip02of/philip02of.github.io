@@ -2,6 +2,5 @@
 website informatica
 
 To do:
-Scroll navbar.
-begrippen. 
-begrippen in een list zetten.
+- Scrollingnav laten werken op een telefoon.
+- Begrippenlijst afmaken.
