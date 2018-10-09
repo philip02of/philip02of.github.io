@@ -3,4 +3,3 @@ website informatica
 
 To do:
 - Scrollingnav laten werken op een telefoon.
-- Begrippenlijst afmaken.
