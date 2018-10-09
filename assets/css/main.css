@@ -26,7 +26,7 @@ header h1 {
 header h1 span:hover {
     color:white;
 }
-span {
+header span, footer span{
 	font-family: ff3;
 }
 header li {
@@ -74,9 +74,6 @@ footer p, a {
     padding: 14px 16px;
     text-decoration: none;
 }
-.begrippen span1{
-    color: #800000;
-}
-span2 {
+.tekst span{
     color: #800000;
 }
